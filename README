@@ -129,3 +129,8 @@ Runs tests
 Builds Docker image
 
 Pushes Docker image to DockerHub
+
+
+NOTE- For this assignment i have used my dockers own id and password in the pipeline as i was getting an error all the time when i was using the secret key. So next time on wards i will not use my personal credentials as it is not recommened as per the practice.
+
+Thanks you
